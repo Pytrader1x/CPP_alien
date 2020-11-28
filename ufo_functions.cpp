@@ -15,7 +15,7 @@ void end_game(std::string answer, std::string codeword){
 
     if(answer == codeword){
 
-    std::cout << "Hooray! You saved the person and earned a medal of honor!" << std::endl;
+    std::cout << "Hooray! You saved the person and earned a medal of honor!\n\n" << std::endl;
 
   } else{
 
